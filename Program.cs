@@ -4,7 +4,7 @@ namespace ProGitForProgrammers
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Console.WriteLine("Hello Cruel World!");
            Console.WriteLine("I just added this in Visual Studio");
         }
     }
