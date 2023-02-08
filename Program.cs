@@ -9,7 +9,7 @@ namespace ProGitForProgrammers
            Console.WriteLine("Another Line");
            Console.WriteLine("Another Another Line");
 
-           Console.WriteLine("Changed line by Sublime Again and Again");
+           Console.WriteLine("Changed line by Sublime Again and Again and Again");
            Console.WriteLine("Commit 2");
 
         }
