@@ -10,6 +10,7 @@ namespace ProGitForProgrammers
            Console.WriteLine("Another Another Line");
 
            Console.WriteLine("Commit");
+           Console.WriteLine("Commit 2");
 
         }
     }
