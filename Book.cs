@@ -1,3 +1,7 @@
+using System;
+using System.Collection.Generic;
+using System.Text;
+
 namespace ProGitForProgrammers
 {
     class Book
